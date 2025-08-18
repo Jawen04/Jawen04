@@ -17,6 +17,12 @@ Here are some of the main tools and languages I use:
 
 ---
 
+## 📝 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+--- 
+
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jawrW&show_icons=true&theme=radical)
 
