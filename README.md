@@ -36,8 +36,9 @@ Here are some of the main tools and languages I use:
 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawen04&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jawen04&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical)
+
 
 
 
