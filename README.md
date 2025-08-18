@@ -8,7 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://jacobwendelresume.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobwendel04@hotmail.com)
 
-
 ## 🚀 Tech Stack
 Here are some of the main tools and languages I use:
 
@@ -26,13 +25,9 @@ Here are some of the main tools and languages I use:
 ## 🔥 Featured Projects
 - [Password Manager](https://github.com/Jawen04/PasswordPal) – Full-stack project (Spring Boot + React + MySQL).
 
-
-
 ## 📝 Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -40,8 +35,5 @@ Here are some of the main tools and languages I use:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawen04&theme=radical" alt="GitHub Streak" />
 </p>
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawen04&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jawen04&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical)
- -->
+
 
