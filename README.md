@@ -24,7 +24,7 @@ Here are some of the main tools and languages I use:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 Featured Projects
-- [Password Manager]([https://github.com/Jawen04/PasswordPal](https://github.com/Jawen04/PasswordPal)) – Full-stack project (Spring Boot + React + MySQL).
+- [Password Manager](https://github.com/Jawen04/PasswordPal) – Full-stack project (Spring Boot + React + MySQL).
 
 
 
