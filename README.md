@@ -36,10 +36,8 @@ Here are some of the main tools and languages I use:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawen04&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawen04&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawen04&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jawen04&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical)
 
 
