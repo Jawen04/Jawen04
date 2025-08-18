@@ -24,7 +24,7 @@ Here are some of the main tools and languages I use:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 Featured Projects
-- [Password Manager]([https://github.com/jawrW/password-manager](https://github.com/Jawen04/PasswordPal)) – Full-stack project (Spring Boot + React + MySQL).
+- [Password Manager]([https://github.com/Jawen04/PasswordPal](https://github.com/Jawen04/PasswordPal)) – Full-stack project (Spring Boot + React + MySQL).
 
 
 
@@ -35,9 +35,9 @@ Here are some of the main tools and languages I use:
 
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jawrW&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Jawen04&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawrW&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jawen04&layout=compact&theme=radical)
 
 
 
