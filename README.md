@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Jacob Wendel 👋
 
 💻 **Developer passionate about coding and problem-solving**  
 🌱 Currently learning **full-stack projects** and exploring **game development**   
