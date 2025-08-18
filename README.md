@@ -4,8 +4,8 @@
 🌱 Currently learning **full-stack projects** and exploring **game development**   
 
 ## 📬 Contacts and Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-wendel-632314269/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)]([https://your-website.com](https://jacobwendelresume.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jacob-wendel-632314269/](https://www.linkedin.com/in/jacob-wendel-632314269/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)]([https://jacobwendelresume.netlify.app/](https://jacobwendelresume.netlify.app/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobwendel04@hotmail.com)
 
 
