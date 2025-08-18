@@ -4,12 +4,12 @@
 🌱 Currently learning **full-stack projects** and exploring **game development**   
 
 ## 📬 Contacts and Social Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-wendel-632314269/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)]([https://your-website.com](https://jacobwendelresume.netlify.app/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jacobwendel04@hotmail.com)
 
 
-## 🚀 Tech Stack
+## 🚀 Tech Stackyour@email.com)
 Here are some of the main tools and languages I use:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -20,7 +20,7 @@ Here are some of the main tools and languages I use:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🔥 Featured Projects
-- [Password Manager]([https://github.com/jawrW/password-manager](https://github.com/Jawen04/PasswordPal) – Full-stack project (Spring Boot + React + MySQL).
+- [Password Manager]([https://github.com/jawrW/password-manager](https://github.com/Jawen04/PasswordPal)) – Full-stack project (Spring Boot + React + MySQL).
 
 
 
