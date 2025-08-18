@@ -5,11 +5,17 @@ on:
     - cron: '0 * * * *'   # Runs every hour
   workflow_dispatch:       # Allow manual run
 
+permissions:
+  contents: write   # Needed so the bot can commit changes to your README
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: readme-activity-bot/actions@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README with activity
+        uses: readme-activity-bot/actions@main
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          target-file: README.md   # Explicitly set your README file
