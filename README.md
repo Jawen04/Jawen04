@@ -25,9 +25,6 @@ Here are some of the main tools and languages I use:
 ## 🔥 Featured Projects
 - [Password Manager](https://github.com/Jawen04/PasswordPal) – Full-stack project (Spring Boot + React + MySQL).
 
-## 📝 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ## 📊 GitHub Stats
 <p align="center">
